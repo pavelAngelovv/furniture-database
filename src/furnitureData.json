@@ -1,0 +1,200 @@
+[
+    {
+        "title": "Wooden Chair",
+        "price": 150,
+        "description": "A sturdy wooden chair",
+        "category": "seating",
+        "material": "wood",
+        "dimensions": {
+            "length": 40,
+            "width": 40,
+            "height": 90
+        },
+        "weight": 5,
+        "image": "https://images.unsplash.com/photo-1651284268820-31727d3eb3c8?w=800&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTB8fHdvb2RlbiUyMGNoYWlyfGVufDB8fDB8fHww",
+        "rating": {
+            "rate": 4.5,
+            "count": 10
+        }
+    },
+    {
+        "title": "Modern Table",
+        "price": 250,
+        "description": "A sleek modern table",
+        "category": "tables",
+        "material": "glass",
+        "dimensions": {
+            "length": 120,
+            "width": 60,
+            "height": 75
+        },
+        "weight": 20,
+        "image": "https://i5.walmartimages.com/asr/71e61375-a11e-4487-bb4b-847f6a70cfbb.20458d232b4c21d46b6618ea1f2987a2.jpeg",
+        "rating": {
+            "rate": 4.8,
+            "count": 5
+        }
+    },
+    {
+        "title": "Leather Sofa",
+        "price": 1200,
+        "description": "A comfortable leather sofa",
+        "category": "seating",
+        "material": "leather",
+        "dimensions": {
+            "length": 200,
+            "width": 90,
+            "height": 85
+        },
+        "weight": 50,
+        "image": "https://a.1stdibscdn.com/archivesE/upload/f_9333/f_4047333/Bank_01_2732_x_1872__z.jpg",
+        "rating": {
+            "rate": 4.7,
+            "count": 20
+        }
+    },
+    {
+        "title": "Glass Shelf",
+        "price": 80,
+        "description": "A stylish glass shelf",
+        "category": "storage",
+        "material": "glass",
+        "dimensions": {
+            "length": 60,
+            "width": 20,
+            "height": 30
+        },
+        "weight": 10,
+        "image": "https://gotohomerepair.com/wp-content/uploads/2017/08/glass-shelving-bronze-glass-shelf-bracket-supports-design-inside-floating-glass-shelves.jpg",
+        "rating": {
+            "rate": 4.4,
+            "count": 15
+        }
+    },
+    {
+        "title": "Wooden Bed",
+        "price": 500,
+        "description": "A classic wooden bed",
+        "category": "beds",
+        "material": "wood",
+        "dimensions": {
+            "length": 200,
+            "width": 160,
+            "height": 100
+        },
+        "weight": 70,
+        "image": "https://www.homestratosphere.com/wp-content/uploads/2014/11/panelbed.jpeg",
+        "rating": {
+            "rate": 4.6,
+            "count": 8
+        }
+    },
+    {
+        "title": "Wood Desk",
+        "price": 200,
+        "description": "A modern wood desk",
+        "category": "office",
+        "material": "wood",
+        "dimensions": {
+            "length": 120,
+            "width": 60,
+            "height": 75
+        },
+        "weight": 25,
+        "image": "https://i5.walmartimages.com/asr/1c6f83e0-63ae-4000-9ae8-a5c13e3a28cc_1.0746d457391715a53759ed4a24405094.jpeg",
+        "rating": {
+            "rate": 4.3,
+            "count": 12
+        }
+    },
+    {
+        "title": "Rug",
+        "price": 100,
+        "description": "A soft and cozy rug",
+        "category": "decor",
+        "material": "fabric",
+        "dimensions": {
+            "length": 150,
+            "width": 100,
+            "height": 1
+        },
+        "weight": 5,
+        "image": "https://www.dshop.com.au/assets/full/4181-T.jpg?1526448787",
+        "rating": {
+            "rate": 4.9,
+            "count": 25
+        }
+    },
+    {
+        "title": "Dining Table",
+        "price": 300,
+        "description": "A spacious dining table",
+        "category": "tables",
+        "material": "wood",
+        "dimensions": {
+            "length": 180,
+            "width": 90,
+            "height": 75
+        },
+        "weight": 40,
+        "image": "https://ombakfurniture.com/wp-content/uploads/2014/11/Sakra-reclaimed-wood-dining-table2-1.jpg",
+        "rating": {
+            "rate": 4.6,
+            "count": 7
+        }
+    },
+    {
+        "title": "Office Chair",
+        "price": 150,
+        "description": "An ergonomic office chair",
+        "category": "office",
+        "material": "fabric",
+        "dimensions": {
+            "length": 60,
+            "width": 60,
+            "height": 100
+        },
+        "weight": 15,
+        "image": "https://i5.walmartimages.com/asr/46afd530-7838-414b-824e-26ab97fa46f4_1.4fc1c8c00e07ac86aabcc0e381a2fa22.jpeg",
+        "rating": {
+            "rate": 4.2,
+            "count": 18
+        }
+    },
+    {
+        "title": "Bookcase",
+        "price": 180,
+        "description": "A large wooden bookcase",
+        "category": "storage",
+        "material": "wood",
+        "dimensions": {
+            "length": 120,
+            "width": 30,
+            "height": 180
+        },
+        "weight": 40,
+        "image": "https://themprojects.com/wp-content/uploads/2017/08/appealing-wood-bookcase-with-doors-solid-wood-construction-natural-for-large-solid-wood-bookcase.jpg",
+        "rating": {
+            "rate": 4.5,
+            "count": 9
+        }
+    },
+    {
+        "title": "Coffee Table",
+        "price": 120,
+        "description": "A stylish coffee table",
+        "category": "tables",
+        "material": "glass",
+        "dimensions": {
+            "length": 80,
+            "width": 80,
+            "height": 40
+        },
+        "weight": 15,
+        "image": "https://wallsdesk.com/wp-content/uploads/2016/04/Trendy-Modern-Glass-Coffee-Table.jpg",
+        "rating": {
+            "rate": 4.7,
+            "count": 14
+        }
+    }
+]
